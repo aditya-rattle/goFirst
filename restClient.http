@@ -1,0 +1,8 @@
+POST http://localhost:9000/api/v1/add-book
+
+###
+GET http://localhost:9000/api/v1/get-books
+
+###
+
+GET http://localhost:9000/api/v1/get-book/db5e93d6-1f02-45d7-bdfa-8123e9f1fa30
